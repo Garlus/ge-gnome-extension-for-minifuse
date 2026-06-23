@@ -1,0 +1,7 @@
+{
+  "uuid": "minifuse-48v-automation@local",
+  "name": "MiniFuse 48V Automation",
+  "description": "Schaltet die Phantomspannung am Arturia MiniFuse ein, wenn das Mikrofon verwendet wird.",
+  "shell-version": ["50"],
+  "version-name": "1.0"
+}

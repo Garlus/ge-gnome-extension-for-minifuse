@@ -1,0 +1,6 @@
+vendor/mf-cli/target/
+kmod/*.mod
+kmod/.*.o.d
+kmod/Module.symvers
+kmod/modules.order
+kmod/.minifuse_mod*
